@@ -1,0 +1,2 @@
+body: //div[contains(concat(' ',normalize-space(@class),' '),' field-name-field-tr-paragraphs ')]
+test_url: https://www.technologyreview.es/s/9655/los-siete-grandes-errores-de-quienes-predicen-el-futuro-de-la-inteligencia-artificial
